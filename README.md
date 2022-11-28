@@ -5,6 +5,7 @@ npm install
 # URUCHAMIANIE
 ## wejsc do katalogu backend i uruchomic index.js
 cd backend
+
 node index.js
 ## wrócić do katalogu głownego
 cd ..
