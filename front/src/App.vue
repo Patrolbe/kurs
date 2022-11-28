@@ -14,7 +14,7 @@
   bottom: 0;
   left: 0;
   margin: auto;
-  background: rgb(255, 204, 0);
+  background: rgb(0, 110, 255);
   border-radius: 20px;
   box-sizing: border-box;
   padding: 20px;
@@ -31,7 +31,7 @@
   position: absolute;
   right: 10px;
   top: 10px;
-  color: #fff;
+  color: rgb(0, 16, 107);
   cursor: pointer;
   font-size: 1.15em;
 }
@@ -73,7 +73,7 @@
   font-size: 22px;
   font-weight: 600;
   line-height: 75px;
-  background: #008000;
+  background: #5c0080cc;
   cursor: pointer;
   color: #fff;
   border-radius: 20px;
@@ -81,7 +81,7 @@
 }
 
 .call-button-bottom {
-  margin-top: 300px;
+  margin-top: 200px;
 }
 .call-button:hover {
   filter: brightness(80%);
