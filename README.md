@@ -22,5 +22,5 @@ npm run serve
 ## wejsc na wyświetlony link
     http://localhost:8080/
 
-#Uwaga 
+# Uwaga 
 od rana miałem problem z push na mojego gitahuba, po długich godzinach stwierdziłem, że ręcznie podmienie pliki. Mam nadzieję, że będę mógł jednak przystąpić do konkursu
