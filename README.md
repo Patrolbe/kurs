@@ -17,6 +17,7 @@ cd ..
 ## wejsc do katalogu front i uruchomic serwer
 cd front     
 gp env VUE_APP_SERVER_URL=$(gp url 3000) && eval $(gp env -e)
+
 npm run serve
 
 ## wejsc na wyświetlony link
